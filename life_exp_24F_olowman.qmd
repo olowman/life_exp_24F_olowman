@@ -1,0 +1,9 @@
+---
+title: "life_exp_24F_olowman"
+format: html
+editor: visual
+---
+```{r}
+library(tidyverse)
+```
+
